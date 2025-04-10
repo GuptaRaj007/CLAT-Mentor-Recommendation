@@ -97,5 +97,9 @@ Conversion to mentorship
 
 1. Clone the repository:
    bash
-   git clone https://github.com/GuptaRaj007/personalized-mentor-recommendation.git
+   git clone https://github.com/GuptaRaj007/CLAT-Mentor-Recommendation.git
    cd personalized-mentor-recommendation
+   pip install -r requirements.txt
+   Or manually:
+   bash
+   pip install pandas numpy scikit-learn
